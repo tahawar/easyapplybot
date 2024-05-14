@@ -1,6 +1,6 @@
-username: "p190097@nu.edu.pk"
-password: "Ta25336900$%"
-phone_number: "+923066206308"
+username: 
+password: 
+phone_number: 
 
 profile_path: 'C:\\Users\\pc\\Desktop\\chromedriver-win64\\chromedriver.exe' #can be empty, will default to 'C:\Users\<user>\AppData\Local\Google\Chrome\User Data\Default'
 
