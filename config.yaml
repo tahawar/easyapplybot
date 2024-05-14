@@ -1,0 +1,31 @@
+username: "p190097@nu.edu.pk"
+password: "Ta25336900$%"
+phone_number: "+923066206308"
+
+profile_path: 'C:\\Users\\pc\\Desktop\\chromedriver-win64\\chromedriver.exe' #can be empty, will default to 'C:\Users\<user>\AppData\Local\Google\Chrome\User Data\Default'
+
+
+positions:
+- 
+# - <position title 2>
+# - <position title 3>
+
+
+locations:
+# - <state>
+- pakistan
+
+salary: 50000
+rate: 10
+# --------- Optional Parameters -------
+uploads:
+  Resume: "C:\\Users\\pc\\Desktop\\LinkedIn-Easy-Apply-Bot-master\\myresume.pdf"
+  Cover Letter: "C:\\Users\\pc\\Desktop\\LinkedIn-Easy-Apply-Bot-master\\myresume.pdf"
+  #Photo: # PATH TO photo
+
+
+output_filename:
+- "C:\\Users\\pc\\Desktop\\LinkedIn-Easy-Apply-Bot-master\\out.csv" # PATH TO OUTPUT FILE (default output.csv)
+
+# blacklist:
+# - # Company names you want to ignoreclc

@@ -1,0 +1,87 @@
+Question,Answer
+"How many years of experience do you have?",5
+"Are you legally authorized to work in the country?",Yes
+"Are you willing to relocate?",No
+"Do you require sponsorship?",No
+"Please provide your salary expectation.",50000
+"What is your highest level of education?","Bachelor's Degree"
+"Are you available to start immediately?",Yes
+"Have you previously worked in this industry?",Yes
+"Can you provide professional references?",Yes
+"Are you comfortable working remotely?",Yes
+"How many years of work experience do you have with SQL?",5
+"há quantos anos você já usa terraform no trabalho?
+insira um um número de whole entre 0 e 99",user provided
+"há quantos anos você já usa kubernetes no trabalho?
+insira um um número de whole entre 0 e 99",user provided
+"qual seu nível de proficiência em english?
+qual seu nível de proficiência em english?
+required
+       selecionar opção
+       nenhuma
+       conversação
+       proficiente
+       nativo ou bilíngue
+  ",user provided
+"how many years of work experience do you have with continuous integration and continuous delivery (ci/cd)?
+enter a whole number between 0 and 99",1
+"how many years of work experience do you have with devops?
+enter a whole number between 0 and 99",1
+"will you now or in the future require sponsorship for employment visa status?
+will you now or in the future require sponsorship for employment visa status?
+required
+yes
+no
+please make a selection",No
+"will you now or in the future require sponsorship for employment visa status?
+will you now or in the future require sponsorship for employment visa status?
+required
+yes
+no",No
+"how many years of work experience do you have with amazon web services (aws)?
+enter a whole number between 0 and 99",1
+"how many years of work experience do you have with terraform?
+enter a whole number between 0 and 99",1
+"how many years of work experience do you have with kubernetes?
+enter a whole number between 0 and 99",1
+"are you comfortable commuting to this job's location?
+are you comfortable commuting to this job's location?
+required
+yes
+no
+please make a selection",Yes
+"this role requires relocation to dubai, would you be able to relocate? (visa assistance, travel & lodging will be provided)
+this role requires relocation to dubai, would you be able to relocate? (visa assistance, travel & lodging will be provided)
+required
+       select an option
+       yes
+       no
+   please enter a valid answer",user provided
+how many,user provided
+how many years of work experience do you have with devops?,1
+how many years of work experience do you have with amazon web services (aws)?,1
+"how many years of work experience do you have with linux?
+enter a whole number between 0 and 99",1
+"how many years of work experience do you have with mysql?
+enter a whole number between 0 and 99",1
+"are you comfortable working in a remote setting?
+are you comfortable working in a remote setting?
+required
+yes
+no
+please make a selection",Yes
+"what is your level of proficiency in english?
+what is your level of proficiency in english?
+required
+       select an option
+       none
+       conversational
+       professional
+       native or bilingual
+  ",user provided
+how many years of work experience do you have with linux?,1
+"are you comfortable working in a remote setting?
+are you comfortable working in a remote setting?
+required
+yes
+no",Yes
